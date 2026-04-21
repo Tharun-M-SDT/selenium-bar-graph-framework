@@ -20,3 +20,4 @@ def test_chart_hover(chart_page):
     print("\nFinal Hover Mapping:", hover_data)
 
     assert len(hover_data) > 0
+    
